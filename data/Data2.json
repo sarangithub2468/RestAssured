@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "project": {
+            "key": "RA"
+        },
+        "summary": "Created issue In RA Project From File2",
+        "description": "Issue  Created  Using REST API via Postman-ISSUE-2",
+        "issuetype": {
+            "name": "Story"
+        }
+    }
+}
